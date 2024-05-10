@@ -1,5 +1,5 @@
 # driver
-To repozytorium jest forkiem [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER), na licencji [GPL-3](/LICENSE)
+To repozytorium jest forkiem [juliagoda/CH341SER](https://github.com/juliagoda/CH341SER), na licencji [GPL-3](LICENSE)
 
 ## Instalacja
 1. Sklonuj to repo.
